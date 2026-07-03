@@ -15,7 +15,8 @@
   nutrition tool that combines barcode scanning, calorie tracking,
   and AI photo-to-nutrition — on-device, in one place. We're finishing                    
   it now and we're in no particular hurry. Software made slowly tends                     
-  to age better.                                                                          
+  to age better.
+  → [forkin.io](https://forkin.io)  
                                                                                           
   ## Principles                                                                           
                                                                                           
